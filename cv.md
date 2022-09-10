@@ -1,7 +1,8 @@
 <p align="center">
 <b>Ayan Muratov</b>
 </p>
-**+77017303999  ayan.muratov@edu.escp.eu [https://www.linkedin.com/in/ayanmuratov/](https://www.linkedin.com/in/ayanmuratov/)**
+
+**ayan.muratov@edu.escp.eu [https://www.linkedin.com/in/ayanmuratov/](https://www.linkedin.com/in/ayanmuratov/)**
 
 **Education**
 
@@ -20,6 +21,7 @@ _Relevant coursework:_ Artificial Intelligence & Machine Learning, Big Data & Bu
 Nazarbayev University                                                                                                           
 
 _Relevant coursework: _Programming Fundamentals, Web programming & Problem Solving, Quantitative Methods, Financial Markets, Econometrics, Empirical Industrial Organization, Calculus, Linear Algebra_._
+
 
 **Experience**
 
