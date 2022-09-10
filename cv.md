@@ -1,7 +1,6 @@
-
-
-                                                        **Ayan Muratov **
-
+<p align="center">
+<b>Ayan Muratov</b>
+</p>
 **+77017303999  ayan.muratov@edu.escp.eu [https://www.linkedin.com/in/ayanmuratov/](https://www.linkedin.com/in/ayanmuratov/)**
 
 **Education**
@@ -9,7 +8,7 @@
 
 ---
 
-**Master in Management**, specialization: Artificial Intelligence and Big Data                                 	          2021-ongoing
+**Master in Management** 2021-ongoing, specialization: Artificial Intelligence and Big Data                                 	          
 
 ESCP Business School                                                                                              
 
@@ -17,8 +16,7 @@ _Relevant coursework:_ Artificial Intelligence & Machine Learning, Big Data & Bu
 
  
 
-**Bachelor of Arts in Economics   **                                                              	                                         2017-2021
-
+**Bachelor of Arts in Economics** 2017-2021                                                             	                                         
 Nazarbayev University                                                                                                           
 
 _Relevant coursework: _Programming Fundamentals, Web programming & Problem Solving, Quantitative Methods, Financial Markets, Econometrics, Empirical Industrial Organization, Calculus, Linear Algebra_._
@@ -62,4 +60,4 @@ Research Assistant in Data Analytics
 
 **Skills:** JavaScript, Python, SQL, Tableau, HTML/CSS, Excel, PowerPoint
 
-**Languages: **Russian: mother tongue, Kazakh: mother tongue, English: fluent, German: beginner
+**Languages:** Russian: mother tongue, Kazakh: mother tongue, English: fluent, German: beginner
