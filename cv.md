@@ -1,6 +1,6 @@
 <p align="center">
 <b>Ayan Muratov</b>
-<br>ayan.muratov@edu.escp.eu [https://www.linkedin.com/in/ayanmuratov/](https://www.linkedin.com/in/ayanmuratov/)
+<br>ayan.muratov@edu.escp.eu https://www.linkedin.com/in/ayanmuratov
 </p>
 
 
