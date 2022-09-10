@@ -1,6 +1,7 @@
 <p align="center">
 <b>Ayan Muratov</b>
 <br>ayan.muratov@edu.escp.eu https://www.linkedin.com/in/ayanmuratov
+<br>https://github.com/ayanmuratov
 </p>
 
 
@@ -18,13 +19,13 @@ _Relevant coursework:_ Artificial Intelligence & Machine Learning, Big Data & Bu
 **Bachelor of Arts in Economics** 2017-2021                                                             	                                         
 Nazarbayev University                                                                                                           
 
-_Relevant coursework: _Programming Fundamentals, Web programming & Problem Solving, Quantitative Methods, Financial Markets, Econometrics, Empirical Industrial Organization, Calculus, Linear Algebra_._
+_Relevant coursework:_ Programming Fundamentals, Web programming & Problem Solving, Quantitative Methods, Financial Markets, Econometrics, Empirical Industrial Organization, Calculus, Linear Algebra
 
 
 **Experience**
 ---
 
-**<span style="text-decoration:underline;">Sberbank</span>     **                                 	                                                                       	        May 2022 – July 2022
+**Sberbank**                                 	                                                                       	              May 2022 – July 2022
 
 Financial Data Analyst Intern
 
@@ -39,7 +40,7 @@ Financial Data Analyst Intern
 
      
 
-**<span style="text-decoration:underline;">CoronaNet Research Project</span> **                                                                                         Sep 2020 – Dec 2020
+**CoronaNet Research Project**                                                                                                       Sep 2020 – Dec 2020
 
 Research Assistant in Data Analytics
 
