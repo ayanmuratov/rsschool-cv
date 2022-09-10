@@ -1,12 +1,10 @@
 <p align="center">
 <b>Ayan Muratov</b>
+<br>ayan.muratov@edu.escp.eu [https://www.linkedin.com/in/ayanmuratov/](https://www.linkedin.com/in/ayanmuratov/)
 </p>
 
-**ayan.muratov@edu.escp.eu [https://www.linkedin.com/in/ayanmuratov/](https://www.linkedin.com/in/ayanmuratov/)**
 
 **Education**
-
-
 ---
 
 **Master in Management** 2021-ongoing, specialization: Artificial Intelligence and Big Data                                 	          
@@ -24,8 +22,6 @@ _Relevant coursework: _Programming Fundamentals, Web programming & Problem Solvi
 
 
 **Experience**
-
-
 ---
 
 **<span style="text-decoration:underline;">Sberbank</span>     **                                 	                                                                       	        May 2022 – July 2022
